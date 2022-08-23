@@ -1,16 +1,12 @@
-# restaurant
+# Medical app UI clone
 
-A new Flutter project.
+A clone medical app from dribble
 
-## Getting Started
+## Intro screen
+![WhatsApp Image 2022-08-23 at 15 14 44](https://user-images.githubusercontent.com/72471055/186183160-bbdb9ca7-a36f-4dcf-8076-9b6fc5475e37.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Home page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2022-08-23 at 15 14 45](https://user-images.githubusercontent.com/72471055/186183181-1dd18568-2da1-465a-a588-2c21ccc3ea71.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
